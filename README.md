@@ -1,10 +1,7 @@
 
 
 ### Welcome!!👋   
-
-![js](https://user-images.githubusercontent.com/67491104/110233152-ed20a800-7f00-11eb-960b-43c4df5ae395.jpg)<br>
-![images](https://user-images.githubusercontent.com/67491104/110233165-f578e300-7f00-11eb-8f41-cfa21c813928.jpg)
-
+![71ee32577432648f9e45fbd63b2cf261](https://user-images.githubusercontent.com/67491104/110233235-6ae4b380-7f01-11eb-8a69-ce852ff71c34.jpg)
 # Amante de Programação
 # Javascript
 # HTML
