@@ -5,7 +5,6 @@
 # Javascript
 # HTML
 # CSS
-# Python
+# Nodejs
 # Banco de Dados
-![keep-working](https://user-images.githubusercontent.com/67491104/110233409-a0d66780-7f02-11eb-9af4-2e06f3fb58bf.gif)
-
+![avento](https://user-images.githubusercontent.com/67491104/110233680-3aeadf80-7f04-11eb-8906-97b7e4a3f7c2.gif)
